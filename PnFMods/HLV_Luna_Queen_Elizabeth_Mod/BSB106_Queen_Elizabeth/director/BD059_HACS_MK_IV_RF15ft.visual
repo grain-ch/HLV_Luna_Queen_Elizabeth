@@ -1,0 +1,38 @@
+<BD059_HACS_MK_IV_RF15ft.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	BD016_HACS_MK_IV_RF15ft	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	BD016_HACS_MK_IV_RF15ft	</node>
+		<geometry>
+			<vertices>	BD016_HACS_MK_IV_RF15ftShape.vertices	</vertices>
+			<primitive>	BD016_HACS_MK_IV_RF15ftShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<mfm>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/director/BD059_HACS_MK_IV_RF15ft.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.167676 0.000000 -0.099645	</min>
+		<max>	0.167676 0.212136 0.102891	</max>
+	</boundingBox>
+</BD059_HACS_MK_IV_RF15ft.visual>

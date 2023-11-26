@@ -1,0 +1,7 @@
+<German_Disk_3Blade_03_alpha.mfm>
+	<fx>	shaders/materials/pbs/propeller_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/common/textures/German_Disk_3Blade_03_alpha_a.dds	</Texture>
+	</property>
+</German_Disk_3Blade_03_alpha.mfm>
