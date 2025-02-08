@@ -1,8 +1,0 @@
-<BSB011_Queen_Elizabeth_1942_MidBack_lod1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/ship/lods/BSB011_Queen_Elizabeth_1942_MidBack_lod2	</parent>
-	<extent>	20.0000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/ship/lods/BSB011_Queen_Elizabeth_1942_MidBack_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</BSB011_Queen_Elizabeth_1942_MidBack_lod1.model>

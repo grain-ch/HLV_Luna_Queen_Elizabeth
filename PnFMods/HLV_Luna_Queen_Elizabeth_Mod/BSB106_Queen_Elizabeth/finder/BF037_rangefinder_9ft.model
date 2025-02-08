@@ -1,7 +1,6 @@
 <BF037_rangefinder_9ft.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/finder/lods/BF037_rangefinder_9ft_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/finder/BF037_rangefinder_9ft	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/finder/BF037_rangefinder_9ft.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </BF037_rangefinder_9ft.model>

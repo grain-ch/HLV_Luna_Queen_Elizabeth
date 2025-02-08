@@ -1,9 +1,6 @@
 <BD045_Pom_Pom_director_mk1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/director/lods/BD045_Pom_Pom_director_mk1_lod1	</parent>
-	<nodefullVisual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/director/BD045_Pom_Pom_director_mk1	</nodefullVisual>
-	<extent>	2.0000	</extent>
-	<materialNames />
-	<castsShadow>	false	</castsShadow>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/director/BD045_Pom_Pom_director_mk1.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </BD045_Pom_Pom_director_mk1.model>

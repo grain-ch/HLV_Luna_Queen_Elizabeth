@@ -1,8 +1,6 @@
 <BC006_Catapult.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/catapult/lods/BC006_Catapult_lod1	</parent>
-	<nodefullVisual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/catapult/BC006_Catapult	</nodefullVisual>
-	<extent>	2.0000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/catapult/BC006_Catapult.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </BC006_Catapult.model>

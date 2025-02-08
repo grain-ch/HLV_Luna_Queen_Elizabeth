@@ -1,5 +1,5 @@
 <BD004_Director_Mk7_With_finder_15ft_small.mfm>
-	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/director/default_ao.dds	</Texture>

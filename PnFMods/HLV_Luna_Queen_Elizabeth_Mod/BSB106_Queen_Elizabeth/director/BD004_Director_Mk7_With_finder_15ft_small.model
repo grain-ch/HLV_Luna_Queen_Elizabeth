@@ -1,7 +1,6 @@
 <BD004_Director_Mk7_With_finder_15ft_small.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/director/lods/BD004_Director_Mk7_With_finder_15ft_small_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/director/BD004_Director_Mk7_With_finder_15ft_small	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/director/BD004_Director_Mk7_With_finder_15ft_small.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </BD004_Director_Mk7_With_finder_15ft_small.model>

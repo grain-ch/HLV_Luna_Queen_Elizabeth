@@ -1,7 +1,6 @@
 <BGM010_15in42_MK1_RF_dead.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/gun/lods/BGM010_15in42_MK1_RF_dead_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/gun/BGM010_15in42_MK1_RF_dead	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/gun/BGM010_15in42_MK1_RF_dead.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </BGM010_15in42_MK1_RF_dead.model>

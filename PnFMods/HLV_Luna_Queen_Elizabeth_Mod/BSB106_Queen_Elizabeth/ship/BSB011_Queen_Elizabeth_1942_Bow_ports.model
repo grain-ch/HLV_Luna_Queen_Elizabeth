@@ -1,7 +1,6 @@
 <BSB011_Queen_Elizabeth_1942_Bow_ports.model>
-	<exporter>	1.6	</exporter>
-	<extent>	200.0000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/ship/BSB011_Queen_Elizabeth_1942_Bow_ports	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/ship/BSB011_Queen_Elizabeth_1942_Bow_ports.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </BSB011_Queen_Elizabeth_1942_Bow_ports.model>

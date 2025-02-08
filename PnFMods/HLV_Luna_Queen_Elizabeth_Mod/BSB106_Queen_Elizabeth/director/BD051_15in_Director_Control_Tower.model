@@ -1,8 +1,6 @@
 <BD051_15in_Director_Control_Tower.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/director/lods/BD051_15in_Director_Control_Tower_lod1	</parent>
-	<nodefullVisual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/director/BD051_15in_Director_Control_Tower	</nodefullVisual>
-	<extent>	2.0000	</extent>
-	<castsShadow>	false	</castsShadow>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Luna_Queen_Elizabeth_Mod/BSB106_Queen_Elizabeth/director/BD051_15in_Director_Control_Tower.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </BD051_15in_Director_Control_Tower.model>
